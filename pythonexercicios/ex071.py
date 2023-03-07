@@ -1,4 +1,4 @@
-# Simular Caixa Eletronico, Perguntar valor serar sacado, mostrar qual quantidade de cada cedula será sacada
+# Simular Caixa Eletronico, Perguntar valor será sacado, mostrar qual quantidade de cada cedula será sacada
 valor = int(input('Quanto dseja sacar? R$'))
 ced = 200
 tc = 0
