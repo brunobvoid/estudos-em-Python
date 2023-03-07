@@ -1,0 +1,1 @@
+#ler uma expressão matemática e analisar se esta valida a expressão

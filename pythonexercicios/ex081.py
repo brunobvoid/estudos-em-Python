@@ -1,0 +1,1 @@
+#ler varios numeros até parar, mostrar quandos numeros foram digitados, descrescente e se tem 5 na lista

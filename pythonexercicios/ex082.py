@@ -1,0 +1,1 @@
+#ler varios numeros, depois criar 2 listas extras com numeros pares e outra com numeros impares
