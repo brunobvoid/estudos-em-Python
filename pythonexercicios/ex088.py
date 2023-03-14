@@ -1,0 +1,1 @@
+#fazer um programa que ajude em palpites da mega sena, perguntar qntos jogos quer, e sortear 6 numeros de 1 a 60 de acordo a quantidade de jogos

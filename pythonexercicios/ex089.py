@@ -1,0 +1,1 @@
+#ler nome  2 notas, mostre um boletim mostrando a média e permita que o usuário possa mostrar as notas de cada aluno individualmente

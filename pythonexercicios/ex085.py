@@ -1,0 +1,1 @@
+#ler 7 valores, mostrar uma lista com 2 listas de valores pares e impares em ordem crescente

@@ -1,0 +1,1 @@
+#aprimorar o ex anterior mostrando a soma dos valores pares a soma dos valores da 3 coluna e o maior valor da segunda linha
