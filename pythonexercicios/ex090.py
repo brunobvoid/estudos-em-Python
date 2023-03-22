@@ -1,0 +1,1 @@
+# ler nome e média e guardar situação do aluno se media 7 ou mais passou se não reprovou

@@ -1,0 +1,1 @@
+# 4 numeros aleatórios (d6) em um dicionário colocar o dicionário em ordem, o vencedor tirou o maior numero

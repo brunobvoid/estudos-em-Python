@@ -1,0 +1,1 @@
+#ler nome do jogador e qntidade de partidas, perguntar quantidade de gols feitos em cada partida entregar aproveitamento
