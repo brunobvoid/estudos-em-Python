@@ -1,5 +1,5 @@
 #dicionários
-'''pessoas = {'nome': 'Bruno', 'sexo': 'M', 'idade': 28}
+pessoas = {'nome': 'Bruno', 'sexo': 'M', 'idade': 28}
 print(f'{pessoas["nome"]} tem {pessoas["idade"]} anos')
 print(pessoas.keys())
 print(pessoas.values())
@@ -22,7 +22,7 @@ br.append(estado2)
 print(estado1)
 print(estado2)
 print(br)
-print(f'A sigla do estado {br[0]["uf"]} é {br[0]["sigla"]}')'''
+print(f'A sigla do estado {br[0]["uf"]} é {br[0]["sigla"]}')
 
 estado = dict()
 brasil = list()
